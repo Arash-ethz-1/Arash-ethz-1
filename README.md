@@ -14,7 +14,7 @@ cutting inter-GPU traffic
 
 **Public work**
 
-[internship-finder](https://github.com/Arash-ethz-1/internship-finder):
+[job-agent](https://github.com/Arash-ethz-1/internship-finder):
 hybrid retrieval and a hand-written agent loop over job postings
 [torchlogix](https://github.com/ligerlac/torchlogix): fixed a serialization
 bug where connection-class buffers were left unregistered ([PR #N](link))
