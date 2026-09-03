@@ -6,10 +6,12 @@ tooling at Research Analytics Services, ETH Zurich.
 *Most of my work is in private repos under ETH guidelines, so this profile
 isn't the full picture.*
 
-🔬 **DISCO Lab** : training differentiable logic-gate networks to play
-logic-based games, and working out where they fall short of an MLP  📚 **Research Analytics Services**: building and running the team's stack,
+- 🔬 **DISCO Lab** : training differentiable logic-gate networks to play
+logic-based games, and working out where they fall short of an MLP  
+- 📚 **Research Analytics Services**: building and running the team's stack,
 from the core Python library that unifies ETH research data to the internal
-web tools and the server they run on⚡ **Cybiont (2026)**: distributed attention for multi-GPU LLM inference,
+web tools and the server they run on
+- ⚡ **Cybiont (2026)**: distributed attention for multi-GPU LLM inference,
 cutting inter-GPU traffic
 
 **Public work**
