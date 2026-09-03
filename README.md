@@ -1,16 +1,26 @@
-## Hi there 👋
+## Arash Bayat
 
-<!--
-**Arash-ethz-1/Arash-ethz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at ETH Zurich. Research assistant at the DISCO Lab, and I build
+tooling at Research Analytics Services, ETH Zurich.
 
-Here are some ideas to get you started:
+Most of my work is in private repos under ETH guidelines, so this profile
+isn't the full picture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 **DISCO Lab**: training differentiable logic-gate networks to play
+logic-based games, and working out where they fall short of an MLP
+
+📚 **Research Analytics Services**: building and running the team's stack,
+from the core Python library that unifies ETH research data to the internal
+web tools and the server they run on
+
+⚡ **Cybiont (2026)**: distributed attention for multi-GPU LLM inference,
+cutting inter-GPU traffic
+
+**Public work**
+
+[internship-finder](https://github.com/Arash-ethz-1/internship-finder):
+hybrid retrieval and a hand-written agent loop over job postings
+[torchlogix](https://github.com/ligerlac/torchlogix): fixed a serialization
+bug where connection-class buffers were left unregistered ([PR #N](link))
+
+Zurich · [LinkedIn](https://linkedin.com/in/arash-bayat-cool)
