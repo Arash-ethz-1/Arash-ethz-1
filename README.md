@@ -1,6 +1,6 @@
 ## Arash Bayat
 
-CS student at ETH Zurich. Research assistant at the DISCO Lab, and I build tooling at Research Analytics Services.
+CS student at ETH Zurich. Research assistant at the DISCO Lab, and I build tooling at Research Analytics Services of ETHZ.
 
 *Most of my work is in private repos under ETH guidelines, so this isn't the full picture.*
 
@@ -8,9 +8,3 @@ CS student at ETH Zurich. Research assistant at the DISCO Lab, and I build tooli
 - 📚 **Research Analytics Services**: the team's stack, from the Python library that unifies ETH research data to the internal web tools and the server they run on
 - ⚡ **Cybiont (2026)**: distributed attention for multi-GPU LLM inference, cutting inter-GPU traffic
 
-**Public work**
-
-- [job-agent](https://github.com/Arash-ethz-1/internship-finder): hybrid retrieval and a hand-written agent loop over job postings
-- [torchlogix](https://github.com/ligerlac/torchlogix): fixed a serialization bug leaving connection-class buffers unregistered
-
-Zurich · [LinkedIn](https://linkedin.com/in/arash-bayat-cool)
